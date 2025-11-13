@@ -1,0 +1,49 @@
+CHANGELOG - Roblox Automation Suite
+====================================
+
+Version 1.0.0 (2025-01-XX)
+--------------------------
+Initial Release
+
+Features:
+- Script Executor with Lua script support
+- Game automation for Blox Fruits, Da Hood, and Anime Adventures
+- Generic automation support for any Roblox game
+- Bot framework with multiple bot types (Visit, Server, Follow, Farm)
+- Macro recorder and auto-clicker functionality
+- Modern GUI with CustomTkinter
+- Secure configuration management
+- Settings panel with theme customization
+- Comprehensive documentation
+
+Technical:
+- Built with Python 3.x
+- Uses CustomTkinter for modern UI
+- Modular architecture for easy extension
+- Sanitization and build pipeline
+- Standalone executable support
+
+Security:
+- API key sanitization before release
+- User-configurable credentials
+- No hardcoded secrets
+- Secure configuration templates
+
+Documentation:
+- README.md with full documentation
+- README_PlayNexus.txt for Discord
+- SETUP_INSTRUCTIONS.txt for users
+- Configuration templates included
+
+Known Issues:
+- Some features require Roblox API integration (placeholder implementations)
+- Bot functionality requires Roblox authentication
+- Macro recording may need calibration for different screen resolutions
+
+Future Plans:
+- Additional game support
+- Enhanced script executor with syntax validation
+- Cloud sync for configurations
+- Advanced bot scheduling
+- Performance optimizations
+

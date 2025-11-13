@@ -1,0 +1,14 @@
+PlayNexus App Setup - Roblox Automation Suite
+
+1. Open config_template.json or .env.example
+2. Enter your own API keys and credentials
+3. Save as config.json or .env
+4. Do NOT share your keys publicly
+
+IMPORTANT:
+- Never commit your actual API keys to version control
+- Keep your credentials secure
+- Use at your own risk
+
+Support: https://discord.gg/vFX5mFQUmc
+GitHub: https://github.com/PlayNexusHub

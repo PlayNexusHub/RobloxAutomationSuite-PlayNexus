@@ -1,0 +1,9 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "api_secret": "YOUR_SECRET_HERE",
+  "base_url": "https://your-api-endpoint.com",
+  "project_name": "RobloxAutomationSuite",
+  "roblox_cookie": "",
+  "auto_start": false,
+  "theme": "dark"
+}
