@@ -10,10 +10,133 @@ A comprehensive Windows 10 application that combines and enhances features from 
 - Save and manage script libraries
 
 ### 🤖 Game Automation
-- **Blox Fruits**: Auto-farm fruits, auto-raid functionality
-- **Da Hood**: Cash farming, auto-duel
-- **Anime Adventures**: Wave farming, auto-summon
-- Generic automation support for any Roblox game
+
+Supports **50+ Roblox games** with specific automation features for each game:
+
+#### ⚔️ Fighting Games (12 games)
+- **Blox Fruits** - Fruit farming, auto-raid, boss farming
+- **Da Hood** - Cash farming, auto-duel, auto-rob
+- **King Legacy** - Quest farming, auto-awaken
+- **Project Slayers** - Demon farming, breathing training
+- **Shindo Life** - Quest farming, auto-spin bloodlines
+- **Ninja Legends** - Chi farming, auto-evolve pets
+- **Your Bizarre Adventure** - Stand farming, auto-prestige
+- **A One Piece Game** - Devil fruit farming, auto-raid
+- **Grand Piece Online** - Devil fruit farming, auto-quest
+- **Slap Battles** - Auto-slap, glove farming
+- **Ability Wars** - Auto-fight
+- **Super Power Fighting Simulator** - Power farming
+
+#### 🎮 Simulator Games (8 games)
+- **Pet Simulator X** - Auto-hatch eggs, coin farming, auto-trade
+- **Pet Simulator 99** - Auto-hatch, coin farming
+- **Bee Swarm Simulator** - Pollen collection, honey conversion
+- **Mining Simulator 2** - Auto-mine ores, auto-sell
+- **Adopt Me** - Auto-age pets, auto-trade
+- **Clicker Simulator** - Auto-click, auto-rebirth
+- **Tapping Legends X** - Auto-tap
+- **Grow a Garden** - 21+ features: plant seeds, water plants, harvest crops, auto-fertilize, upgrade garden, sell produce, buy seeds, auto-weed, pest control, auto-compost, auto-irrigate, auto-prune, harvest all, plant all, upgrade tools, complete orders, collect rewards, manage inventory, optimize layout, full auto cycle
+
+#### 🏰 Tower Defense Games (3 games)
+- **Anime Adventures** - Wave farming, auto-summon, auto-upgrade
+- **All Star Tower Defense** - Wave farming, auto-summon
+- **Tower Defense Simulator** - Wave farming
+
+#### 🎢 Tycoon Games (2 games)
+- **Restaurant Tycoon 2** - Auto-cook, auto-serve
+- **Theme Park Tycoon** - Auto-collect money, upgrade rides
+
+#### 🏃 Obby Games (3 games)
+- **Tower of Hell** - Auto-complete tower
+- **Speed Run 4** - Auto-run course
+- **Evade** - Auto-evade
+
+#### 🔫 FPS Games (2 games)
+- **Arsenal** - Auto-aim assist
+- **Phantom Forces** - Kill farming
+
+#### 🗺️ Adventure Games (3 games)
+- **Jailbreak** - Auto-rob locations, auto-escape
+- **Mad City** - Auto-rob
+- **Dragon Adventures** - Auto-breed dragons, coin farming
+
+#### 🏠 Life Games (3 games)
+- **Welcome to Bloxburg** - Auto-work jobs
+- **Brookhaven** - Auto-roleplay
+- **MeepCity** - Auto-work
+
+#### 🧟 Survival Games (2 games)
+- **Natural Disaster Survival** - Auto-survive disasters
+- **Zombie Rush** - Kill zombies, collect coins
+
+#### 👻 Horror Games (3 games)
+- **Doors** - Auto-solve puzzles
+- **Rainbow Friends** - Auto-escape
+- **Piggy** - Auto-escape
+
+#### 🎯 Other Games (7 games)
+- **Build A Boat** - Auto-build, coin farming
+- **Murder Mystery 2** - Auto-win games
+- **Blade Ball** - Auto-block
+- **Rogue Lineage** - Mana farming, auto-grind
+- **Deepwoken** - Level farming
+- **World Zero** - Quest farming
+- **Anime Fighting Simulator** - Chi farming, auto-train
+
+**Total: 48 games** with fully implemented automation features!
+
+### Complete Game List (Alphabetical)
+
+1. A One Piece Game
+2. Ability Wars
+3. Adopt Me
+4. All Star Tower Defense
+5. Anime Adventures
+6. Anime Fighting Simulator
+7. Arsenal
+8. Bee Swarm Simulator
+9. Blade Ball
+10. Blox Fruits
+11. Brookhaven
+12. Build A Boat
+13. Clicker Simulator
+14. Da Hood
+15. Deepwoken
+16. Doors
+17. Dragon Adventures
+18. Evade
+19. Grand Piece Online
+20. Grow a Garden
+21. Jailbreak
+22. King Legacy
+23. Mad City
+24. MeepCity
+25. Mining Simulator 2
+26. Murder Mystery 2
+27. Natural Disaster Survival
+28. Ninja Legends
+29. Pet Simulator 99
+30. Pet Simulator X
+31. Phantom Forces
+32. Piggy
+33. Project Slayers
+34. Rainbow Friends
+35. Restaurant Tycoon 2
+36. Rogue Lineage
+37. Shindo Life
+38. Slap Battles
+39. Speed Run 4
+40. Super Power Fighting Simulator
+41. Tapping Legends X
+42. Theme Park Tycoon
+43. Tower Defense Simulator
+44. Tower of Hell
+45. Welcome to Bloxburg
+46. World Zero
+47. Your Bizarre Adventure
+48. Zombie Rush
+
+All games feature **game-specific automation options** tailored to each game's mechanics. No generic automation - every game has custom features!
 
 ### 🚀 Bot Framework
 - **Visit Bot**: Automatically visit games
